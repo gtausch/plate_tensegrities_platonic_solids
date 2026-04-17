@@ -1,1 +1,1 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gtausch/plate_tensegrities_platonic_solids/main?urlpath=https%3A%2F%2Fgithub.com%2Fgtausch%2Fplate_tensegrities_platonic_solids%2Fblob%2Fmain%2Fplate_tensegrity_tetrahedron.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gtausch/plate_tensegrities_platonic_solids/tree/main/HEAD?urlpath=%2Fdoc%2Ftree%2Fplate_tensegrity_tetrahedron.ipynb)
