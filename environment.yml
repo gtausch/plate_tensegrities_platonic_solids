@@ -9,5 +9,6 @@ dependencies:
   - sympy
   - numpy
   - notebook
+  - scipy
   - pip:
     - kingdon
