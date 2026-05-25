@@ -9,4 +9,4 @@ Hexahedron:
 <br>
 Animated Icosahedron
 <br>
-<video src="./media/icosahedron_tensegrity_plates_transformation.mp4" muted autoplay loop controls width="300%">Animated Icosahedron</video>
+<video src="./media/icosahedron_tensegrity_plates_transformation.mp4" muted autoplay loop controls width="100%"></video>
